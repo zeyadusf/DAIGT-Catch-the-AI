@@ -40,7 +40,8 @@ on [Google Drive](https://drive.google.com/drive/folders/1MVqODc8gP812yRJD0h6yDs
 ```
 Links :
 [Model | DAIGT](https://www.kaggle.com/code/zeyadusf/model-daigt)
-
+[Create DataSet](https://www.kaggle.com/code/zeyadusf/create-dataset)
+[DAIGT | All data For Model.](https://www.kaggle.com/datasets/zeyadusf/daigt-all-data-for-competition)
 
 
 #### 📍 Second Step:
@@ -79,3 +80,32 @@ Links:<br>
 
 Code Create Folds :  [CreateFolds | DAIGT](https://www.kaggle.com/code/zeyadusf/createfolds-daigt)<br>
 DataSet After Make it [Folds_102 | DAIGT](https://www.kaggle.com/code/zeyadusf/createfolds-daigt)
+
+
+#### 📍 Third Step:
+
+```
+>  Usaged Data:
+  - From Kaggle Onlyyy.
+> Models Architectures:
+  - Mistral-7B   🧟‍♂️ Failed to Save and recall.
+  - RoBERTa.
+  - DistilBERT.
+  - DeBERTa.
+  - BERT.
+```
+Links:
+[RoBERTa](https://www.kaggle.com/code/abdelrahman020/roberta)<br>
+[DistilBERT](https://www.kaggle.com/code/oknomore/distilbert)<br>
+[BBERT](https://www.kaggle.com/code/oknomore/bbert)<br>
+[DeBERTa-V2](https://www.kaggle.com/code/abdelrahman020/debert-v2)<br>
+
+
+#### 📍 fourth Step:
+```
+🚧 Announcement will be made after completion ....
+```
+
+
+
+7 may.
