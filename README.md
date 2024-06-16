@@ -38,10 +38,10 @@ on [Google Drive](https://drive.google.com/drive/folders/1MVqODc8gP812yRJD0h6yDs
   - BERT as Embedding laye .
   - biuld model From scratch.
 ```
-Links :
-[Model | DAIGT](https://www.kaggle.com/code/zeyadusf/model-daigt)
-[Create DataSet](https://www.kaggle.com/code/zeyadusf/create-dataset)
-[DAIGT | All data For Model.](https://www.kaggle.com/datasets/zeyadusf/daigt-all-data-for-competition)
+Links :<br>
+[Model | DAIGT](https://www.kaggle.com/code/zeyadusf/model-daigt)<br>
+[Create DataSet](https://www.kaggle.com/code/zeyadusf/create-dataset)<br>
+[DAIGT | All data For Model.](https://www.kaggle.com/datasets/zeyadusf/daigt-all-data-for-competition)<br>
 
 
 #### 📍 Second Step:
@@ -79,7 +79,7 @@ Links:<br>
 🌵 Ninth attempt : [test_2_batchTaker](https://www.kaggle.com/code/oknomore/test-2-batchtaker)
 
 Code Create Folds :  [CreateFolds | DAIGT](https://www.kaggle.com/code/zeyadusf/createfolds-daigt)<br>
-DataSet After Make it [Folds_102 | DAIGT](https://www.kaggle.com/code/zeyadusf/createfolds-daigt)
+DataSet After Make it [Folds_102 | DAIGT](https://www.kaggle.com/code/zeyadusf/createfolds-daigt)<br>
 
 
 #### 📍 Third Step:
@@ -94,7 +94,7 @@ DataSet After Make it [Folds_102 | DAIGT](https://www.kaggle.com/code/zeyadusf/c
   - DeBERTa.
   - BERT.
 ```
-Links:
+Links:<br>
 [RoBERTa](https://www.kaggle.com/code/abdelrahman020/roberta)<br>
 [DistilBERT](https://www.kaggle.com/code/oknomore/distilbert)<br>
 [BBERT](https://www.kaggle.com/code/oknomore/bbert)<br>
