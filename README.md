@@ -130,10 +130,35 @@ Links :
   - [FF-Ro-DeBERTa | DAIGTMs](https://www.kaggle.com/code/zeyadusf/ff-ro-deberta-daigtms)<br>
   - [Models Analysis | DAIGT](https://www.kaggle.com/code/zeyadusf/models-analysis-daigt)<br>
     
-#### 📍The fifth step:
+#### 📍The fifth step: Final architecture:
 
-```
-🚧 Announcement will be made after completion ....
-```
+![image](https://github.com/zeyadusf/DAIGT-Models/assets/83798621/3aa033a1-dfd1-49d4-99cf-9830c29b9e2c)
+<br>
+![image](https://github.com/zeyadusf/DAIGT-Models/assets/83798621/42bad322-de6e-468e-9da3-017bcf9b8481)
 
-17 Jun
+24 jun 2024
+
+<hr> 
+
+<!--social media-->
+<div align="center">
+
+<a href="https://www.instagram.com/zeyadusf/" target="_blank">
+  <img src="https://img.shields.io/badge/-zeyadusf-white?style=flat&logo=instagram&logoColor=#E65468" alt="Instagram" />
+</a>
+
+
+<a href="https://www.linkedin.com/in/zeyadusf/" target="_blank">
+  <img src="https://img.shields.io/badge/-Zeyad Usf-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="https://github.com/zeyadusf/" target="_blank">
+  <img src="https://img.shields.io/badge/-Zeyad Usf-403E3E?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+
+  <a href="https://www.kaggle.com/zeyadusf" target="_blank">
+  <img src="https://img.shields.io/badge/-Zeyad Usf-0077B5?style=flat&logo=kaggle&logoColor=white" alt="kaggle" />
+</a>
+
+
+</div>
