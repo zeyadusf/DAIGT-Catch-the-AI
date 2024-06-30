@@ -29,9 +29,10 @@ but, about this repo Here I present to you everything related to my work on the 
 
 ## ❓ How can you catch Ai-Generated Text?
 
-<b> ⏲️ Time-Line: </b> [Timeline ](https://github.com/zeyadusf/DAIGT-Catch-the-AI/timeline%20of%20work)<br>
+<b> ⏲️ Time-Line: </b> [Timeline ](https://github.com/zeyadusf/DAIGT-Catch-the-AI/tree/main/timeline%20of%20work)<br>
 
-<b> 🗞️ All details about final version is here: </b>[Documant of text model](https://github.com/zeyadusf/DAIGT-Catch-the-AI/Document%20of%20Text%20Model.pdf)  
+<b> 🗞️ All details about final version is here: </b>
+[Documant of text model](https://github.com/zeyadusf/DAIGT-Catch-the-AI/blob/main/Document%20of%20Text%20Model.pdf)<br>
 
 <b> 🔗Links of Notebooks and dataset 'final version':<br></b>
 
