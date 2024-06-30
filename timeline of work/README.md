@@ -2,9 +2,10 @@
 
 # DAIGT
 
+<p  align="left"> There are some private notebooks, if you need to take a look, you can contact me, do not hesitate 🥰 </p>
 </div>
 
-## 🐤 About Files :
+## 🐤 About steps we worked on :
 
 ### 1️⃣ First Term Version
 
@@ -136,7 +137,6 @@ Links :
 <br>
 ![image](https://github.com/zeyadusf/DAIGT-Models/assets/83798621/42bad322-de6e-468e-9da3-017bcf9b8481)
 
-24 jun 2024
 
 <hr> 
 
@@ -162,3 +162,6 @@ Links :
 
 
 </div>
+
+24 jun 2024
+<br>Zeyad Yosif
