@@ -3,40 +3,68 @@
 # DAIGT | CATCH THE AI
 </div>
 
-<p>Detect AI Generated Text (DAIGT),
-  this is part of our graduation project that includes 9 member, which works on Ai-Generated Media(Audio, Image and Text) Detection Or as we called it <b>Catch the AI</b> .<br>
+<p>
+  I am pleased to present to you our graduation project that includes 9 member. "AI-generated media (Audio, Image, and Text) Detection"  or as we called it, <b>"Catch the AI"</b>.
+  <br>
 </p>
+<p>
+  <b>Catch The AI</b>: It is a complete system that enables you to have your account to save what you have recorded from previous media. With this system, you can display it on different media (text, audio, and image), each of which is self-contained.
+<br>Register now to be able to catch the AI: </p>
 
 - <b>Demo :</b> [catchtheai](https://www.catchtheai.tech/)<br>
 - <b>Main Repo on github :</b> [private repo](https://github.com/romanyn36/Graduation-project) <br>
+<br>
 
 ![image](https://github.com/zeyadusf/DAIGT-Catch-the-AI/assets/83798621/54fdb71b-0b30-4c4d-878b-e00819467468)
 
 <hr>
 
 ## :dart: About ##
-but, about this repo Here I present to you everything related to my work on the text model, from the stages of data collection to testing some models to the final model...
 
-#### ↪️ Problem definition 
+<div align="center" > 
 
-<p>One of the most important goals of LLMs like (GPT 3.5, GPT 4, Gemini,...)  is to create text that resembles what a human writes. 
+# Detect AI Generated Text (DAIGT).
+
+ </div>
+
+This is part of our graduation project, I was working on this project on the Detect AI-Generated Text *DAIGT* model. <br>about this repo Here I present to you everything related to my work on the text model, from the stages of data collection to testing some models to the final model...
+ 
+ 
+### ↪️ Problem definition 
+
+<!--p>One of the most important goals of LLMs like *GPT 3.5, GPT 4, Gemini,...*  is to create text that resembles what a human writes. 
   With the wide and many uses of these models, it will become difficult to differentiate between these essays, 
-  so the <b> CATCH THE AI team </b> decided to come up with a solution on the scene.</p>
-  
-🔗 It was collected from different areas on Kaggle and HuggingFace, and you can access it through this link: [DAIGT | Catch The AI](https://www.kaggle.com/datasets/zeyadusf/daigt-all-data-for-competition)
+  so the <b> CATCH THE AI team </b> decided to come up with a solution on the scene.</p>-->
 
-  <hr> 
+  &nbsp; &nbsp; &nbsp;One of the goals of Large Language Models “LLMs” is to create texts similar to what humans write and after the many LLMs currently available and ready for use, such as *GPT 4, Gemini, etc*. The open-source models that you can train on your data and your task, such as *Mistral*. And as we use them a lot in many tasks, it will become difficult to differentiate between these texts and their authors.<br><br> &nbsp; &nbsp; &nbsp;This will affect many things, such as Students using LLMs for homework; this will affect their academic level, and it will be difficult for the teacher to determine the level of his students, and his estimation of these students will be wrong. Another example that we encountered during the data collection stage is the lack of trust in articles. We always wondered who wrote this article. If we consider that the one who wrote it was one of the LLMs, and our suspicion was wrong, this reduces the quality of the data that the model will be trained on.
+
+These are some of the simple examples and cases in which you want the DAIGT model to intervene to help you, and in “<b>Catch The AI</b>”.
+
+<br>
+
+### ↪️ DAIGT Solution 
+
+ &nbsp; &nbsp; &nbsp;After many stumbles and experiments to obtain data and a suitable architecture capable of achieving our goals of building a robust and generalized model. We trained many models, including <b>from scratch</b> *Bi-LSTM, Conv1D, etc.*, and we used different <b>tokenizers</b> in them, such as *ELMo model, BERT-tokenizer* and <b>pre-trained models</b> such as *Mistral-7B, BERT, DistilBERT, RoBERTa, and DeBERTa.* <br>
+* Here is an explanation of the latest architecture:<br>
+ &nbsp; &nbsp; &nbsp;In the DAIGT model, we relied on **two models** that proved their efficiency in some of the data that they were not trained on **RoBERTa and DeBERTa**. Therefore, we decided to use them together and create an **ensemble technique** through the **Feedforward Layer**  '*ReLU* activation function', consisting of *32 neurons* that were trained on the outputs coming out of *RoBERTa and DeBERTa*.
+
+<div align="center" > 
+
+![image](https://github.com/zeyadusf/DAIGT-Catch-the-AI/assets/83798621/53fde6f0-5f3f-41ea-8dab-8bd9bab4ae87)
+![image](https://github.com/zeyadusf/DAIGT-Catch-the-AI/assets/83798621/df578fc7-8e5b-4a94-9a2c-ab7ee877d95f)
+</div>
 
 ## ❓ How can you catch Ai-Generated Text?
 
-<b> ⏲️ Time-Line: </b> [Timeline ](https://github.com/zeyadusf/DAIGT-Catch-the-AI/tree/main/timeline%20of%20work)<br>
 
-<b> 🗞️ All details about final version is here: </b>
+<b> ⏲️ *Time-Line* :</b> [Timeline ](https://github.com/zeyadusf/DAIGT-Catch-the-AI/tree/main/timeline%20of%20work)  &nbsp;All **results** and **notebooks** can be accessed here.<br>
+
+<b> 🗞️ *All details about final version is here*: </b>
 [Documant of text model](https://github.com/zeyadusf/DAIGT-Catch-the-AI/blob/main/Document%20of%20Text%20Model.pdf)<br>
 
-<b> 🔗Links of Notebooks and dataset 'final version':<br></b>
+<b> 🔗*Links of Notebooks and dataset* 'final version':<br></b>
 
-- <b>DataSet</b>  [DAIGT | Catch The AI](https://www.kaggle.com/datasets/zeyadusf/daigt-all-data-for-competition)<br>
+- It was collected from different areas on Kaggle and HuggingFace, and you can access it through this link: [DAIGT | Catch The AI](https://www.kaggle.com/datasets/zeyadusf/daigt-all-data-for-competition)
 - [DAIGT | EDA](https://www.kaggle.com/code/zeyadusf/daigt-eda)<br>
 - [DAIGT | BERT](https://www.kaggle.com/code/zeyadusf/daigt-bert)<br>
 - [DAIGT | DistilBERT](https://www.kaggle.com/code/zeyadusf/daigt-distilbert)<br>
