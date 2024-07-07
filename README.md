@@ -71,6 +71,8 @@ These are some of the simple examples and cases in which you want the DAIGT mode
 - [DAIGT | RoBERTa](https://www.kaggle.com/code/zeyadusf/daigt-roberta)<br>
 - [DAIGT | DeBERTa](https://www.kaggle.com/code/zeyadusf/daigt-deberta)<br>
 - [DAIGT | Model Analysis](https://www.kaggle.com/code/zeyadusf/daigt-models-analysis)
+- You can use all of them or retrain them. You will find them on my account on **HuggingFace**: [zeyadusf](https://huggingface.co/zeyadusf)
+
 
 <hr>
 
