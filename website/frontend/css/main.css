@@ -1,0 +1,294 @@
+/*  Googal font ( Poppins ) */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/*  Global Statment  */
+:root {
+    --main-color:#ecf4d683;
+    --secode-color:#9AD0C2;
+    --third-color:#2D9596;
+    --fourth-color:#2D9596;
+    --main-textcolor: #095fbc;
+    /* --main-textcolor: #3a6cf4; */
+    --main-transition: 0.4s;
+}
+* {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+section {
+    padding: 100px 200px;
+}
+.special-heading {
+    color: var(--main-color);
+    margin: 0;
+    text-align: center;
+    font-weight: 400;
+    font-size: 9em;
+    letter-spacing: -3px;
+}
+.special-heading + p {
+    text-align: center;
+    margin: -75px 0 0;
+    font-size: 20px;
+    color: var(--main-textcolor);}
+
+
+/* Header */
+header {
+    box-shadow: 0px 6px 20px 0px #0000009e ;
+    /* background-color: var(--main-color) ; */
+    background-color: #30596856 ;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 200px;
+}
+header .logo {
+    color: var(--main-textcolor);
+    font-size: 1.8em;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+header .nav {
+    position: relative;
+}
+header .nav a {
+    opacity: 40%;
+    color: var(--main-textcolor);
+    font-size: 1.1em;
+    font-weight: 500;
+    padding-left: 30px;
+    transition: var(--main-transition);
+}
+
+header .nav a:hover {
+    color: var(--main-textcolor);
+    opacity: 100%;
+}
+
+/* Landing */
+section.main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    /* align-items: center; */
+    background: url(/images/landing.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* opacity: 0.8; */
+}
+.conthome{
+        margin: 100px  0 0 -150px
+}
+.main h2 {
+color: white;
+font-size: 1.4em;
+font-weight: 500;
+}
+.main h2 span {
+color: #4e9eff;
+font-size: 2em;
+font-weight: 600;
+display: inline-block;
+margin-top: 10px;
+}
+.main h3 {
+color: white;
+opacity: 30%;
+font-size: 1em;
+font-weight: 400;
+letter-spacing: 1px;
+margin-top: 10px;
+margin-bottom: 30px;
+padding-right: 60px;
+}
+
+/* MODEL*/
+.model {
+    /* padding: 20px; */
+    background-color: #0a3a52;
+    border-radius: 0% 100% 0% 100% / 100% 23% 77% 0%;
+    /* border-radius: 40px 999em 999em 40px; */
+    margin-top: 20px;
+    justify-content: center;
+}
+.model label {
+display: block;
+font-weight: bold;
+margin-bottom: 10px;
+margin-top: 20px;
+color: white;
+
+}
+.model textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    /* border: 1px solid #cccccc49; */
+    border-radius: 10px;
+    box-shadow: 10px 6px 20px 2px #0000009e;
+}
+.model button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    width: 100px;
+    margin-left: 45%;
+    cursor: pointer;
+    transition: var(--main-transition);
+    box-shadow: 0px 0px 20px 2px #00000069;
+}
+.model button:hover {
+background-color: #0056b3;
+}
+.message-box {
+margin-top: 20px;
+padding: 20px;
+background-color: #e9ecef;
+border-radius: 8px;
+border: 1px solid #ced4da;
+}
+
+/* about */
+.about p {
+    font-size: 25px;
+    color: var(--third-color);
+    margin-bottom: 10px;
+}
+
+/* footer */
+/* contact */
+footer .contactme{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+footer .contactme .social-icons{
+    margin-bottom: 100px;
+
+    margin-top: 80px;}
+.contact .social-icons a i{
+  margin-right: 20px;
+  border-right: 1px solid #b1b4bb;
+  color: #3a414e;
+  display: inline-block;
+  line-height: .8;
+  /* padding: 0 10px; */
+    display: flex;
+} 
+.social-icons a{
+    padding: 20px;
+      font-size: 30px; 
+        color: var(--main-color);
+
+}
+.social-icons a:hover i{
+  color: var(--main-textcolor);
+      transition: var(--main-transition);
+  transform: scale(1.2);
+}
+
+.social-icons a:hover i.fa-whatsapp{
+  color: green;
+}
+ .social-icons a:hover i.fa-github {
+  color: #24292f;
+}
+ .social-icons a:hover i.fa-instagram {
+  color: rgba(255, 0, 55, 0.829);
+}
+footer{
+  background-color: #000018;
+  justify-content: space-between;
+}
+
+/* footer .contactme{
+    margin-top: 20px;
+    justify-content: center;
+} */
+
+
+@media (max-width: 1023px) {
+  header{
+    flex-direction: column;
+    padding: 12px 20px;
+  }
+    .special-heading + p {
+    margin-top: -20px;
+  }
+  header .logo{
+    margin-bottom: 10px;
+  }
+  header .nav a{
+    padding-left: 10px;
+  }
+  
+    .conthome{
+            margin: 250px  0 0 0
+    }
+  .main h2{
+    font-size: 1.5em;
+  }
+  .main h3{
+    font-size: 1em;
+  }
+  .main .main-btn{
+    font-size: 0.8em;
+  }
+  .main .social-icons{
+        text-align: center;
+  }
+  .main .social-icons a i {
+    font-size: 1em;
+    
+  }
+  .main .social-icons{
+    margin-top: 5px;
+  }
+  
+  .about .special-heading +p {
+    font-size: 1em;}
+      .special-heading {
+    font-size: 60px;}
+    .contact .social-icons a{
+    margin: 10px 0;
+    display: inline-block;
+  }
+      
+footer p {
+font-size: 0.8em;
+}
+  section{
+    padding: 80px 20px;
+  }
+  .contact .social-icons {
+    text-align: center;
+  }
+textarea#inputText {
+  width: 100%; /* Expands to full width on larger screens */
+  min-width: 300px; /* Sets minimum width for smaller screens */
+  max-width: 500px; /* Sets maximum width for larger screens (optional) */
+  height: 150px; /* Adjust this value for desired height */
+  font-size: 14px;
+}
+}
