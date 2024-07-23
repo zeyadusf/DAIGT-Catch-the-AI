@@ -64,7 +64,8 @@ These are some of the simple examples and cases in which you want the DAIGT mode
 
 <b> 🔗*Links of Notebooks and dataset* 'final version':<br></b>
 
-- It was collected from different areas on Kaggle and HuggingFace, and you can access it through this link:<br> [DAIGT | Catch The AI](https://www.kaggle.com/datasets/zeyadusf/daigt-all-data-for-competition)
+> Data was collected from different areas on Kaggle and HuggingFace, and you can access it through this link:<br>
+- [DAIGT | Catch The AI](https://www.kaggle.com/datasets/zeyadusf/daigt-all-data-for-competition) 
 - [DAIGT | EDA](https://www.kaggle.com/code/zeyadusf/daigt-eda)<br>
 - [DAIGT | BERT](https://www.kaggle.com/code/zeyadusf/daigt-bert)<br>
 - [DAIGT | DistilBERT](https://www.kaggle.com/code/zeyadusf/daigt-distilbert)<br>
