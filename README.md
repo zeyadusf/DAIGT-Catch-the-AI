@@ -13,7 +13,7 @@
 
 - <b>Demo :</b> [catchtheai](https://www.catchtheai.tech/)<br>
 - <b>Main Repo on github :</b> [private repo](https://github.com/romanyn36/Graduation-project) <br>
-- <b> Can use all models <i> RoBERTa,DeBERTa,DistilBERT,BERT,FeedForwardWithRoBERTaDeBERTa of DAIGT on SpaceHuggingface </b> :[DAIGT Space](https://huggingface.co/spaces/zeyadusf/DAIGT)
+- <b> Can use all models <i> RoBERTa,DeBERTa,DistilBERT,BERT,FeedForwardWithRoBERTaDeBERTa</i> of DAIGT on SpaceHuggingface </b> :[DAIGT Space](https://huggingface.co/spaces/zeyadusf/DAIGT)
 <br>
 
 ![image](https://github.com/zeyadusf/DAIGT-Catch-the-AI/assets/83798621/54fdb71b-0b30-4c4d-878b-e00819467468)
